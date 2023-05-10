@@ -1,0 +1,103 @@
+@font-face{
+		font-family: "Monta";
+		src: url("../fonts/Rubik.ttf");
+	}
+ 
+ .green{
+	width: 100px;
+	height: 25px;
+	color: white;
+	background-color: #096;
+	text-align: center;
+	padding: 10px 15px 10px 15px;
+	border-radius: 10px;
+	margin: 10px 0px;
+	
+}
+.white{
+	width: 200px;
+	height: 25px;
+	color: black;
+	border: 1px solid;
+	margin: 16px 16px;
+	padding: 9px;
+	border-radius: 1px;
+	grid-area: white;
+	border-radius: 10px;
+	margin: 10px 15px 10px 15px;
+	text-align: center;
+}
+.penis2{	
+	
+	
+	
+}
+.container {
+	font-family: "Monta";
+	margin: 0 auto;
+	
+	width: 700px;   
+	}
+.container2 {
+	
+	display: grid;
+	grid-template-areas:
+		"green white next"
+		
+}	
+
+.next{
+	width: 100px;
+	height: 25px;
+	color: white;
+	background-color: #096;
+	text-align: center;
+	padding: 10px 15px 10px 15px;
+	border-radius: 10px;
+	margin: 10px 0px;
+}
+.example{
+	width: 700px;
+	height: 400px;
+	background-color: #e7e9eb;
+	border-radius: 10px;
+	padding: 10px 15px;
+	margin: 0 auto;
+	box-sizing: border-box;
+	font-family: "Monta";
+	
+}
+.style{
+	font-family: "Monta";
+	font-weight: 400;
+}
+.ghite{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	line-height: 1.5;
+	background-color: white;
+	width: 670px;
+	height: 180px;
+	border-left: 4px solid #096;
+	padding: 10px;
+	box-sizing: border-box;
+	margin-bottom: 33px;
+}
+.white2{
+	color: white;
+}
+.red{
+	color: #ff0000;
+}
+.blue{
+	color: #4f00d0;
+}
+.try {	
+	width: 150px;
+	height: 20px;
+	color: white;
+	background-color: #096;
+	text-align: center;
+	padding: 10px 15px 10px 15px;
+	border-radius: 10px;
+	margin: 10px 0px;
+}
